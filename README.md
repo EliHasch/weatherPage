@@ -7,19 +7,19 @@ Dies ist ein einfaches Wettervorhersage-Projekt, das mithilfe von JavaScript ers
 
 ### Funktion 
 
-> **Aktuelle Wetterdaten** : Zeigt die aktuelle Temperatur, Luftfeuchtigkeit und Wetterbedingungen (z. B. sonnig, bewölkt) an.
-> **5-Tage-Vorhersage** : Bietet eine detaillierte Wettervorhersage für die nächsten fünf Tage.
-> **Stadtwechsel** : Benutzer können eine andere Stadt auswählen, um die Wettervorhersage für diese Stadt anzuzeigen.
-> **Responsives Design** : Die Benutzeroberfläche ist für Mobilgeräte und Desktops optimiert.
+> - **Aktuelle Wetterdaten** : Zeigt die aktuelle Temperatur, Luftfeuchtigkeit und Wetterbedingungen (z. B. sonnig, bewölkt) an.
+> - **5-Tage-Vorhersage** : Bietet eine detaillierte Wettervorhersage für die nächsten fünf Tage.
+> - **Stadtwechsel** : Benutzer können eine andere Stadt auswählen, um die Wettervorhersage für diese Stadt anzuzeigen.
+> - **Responsives Design** : Die Benutzeroberfläche ist für Mobilgeräte und Desktops optimiert.
 
 ---
 
 ### Technologien
 
-> **HTML5** : Struktur der Anwendung.
-> **Css3** : Styling und Layout.
-> **Javascript(ES6+)** : Logik zur Abfrage der Wetterdaten und Darstellung auf der Seite.
-> **API-Name** : Für die Wetterdaten (openweathermap).
+> - **HTML5** : Struktur der Anwendung.
+> - **Css3** : Styling und Layout.
+> - **Javascript(ES6+)** : Logik zur Abfrage der Wetterdaten und Darstellung auf der Seite.
+> - **API-Name** : Für die Wetterdaten (openweathermap).
 
 ---
 Klicken Sie [hier](https://elihasch.github.io/weatherPage/)bitte an
