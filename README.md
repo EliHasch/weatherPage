@@ -22,4 +22,4 @@ Dies ist ein einfaches Wettervorhersage-Projekt, das mithilfe von JavaScript ers
 > - **API-Name** : Für die Wetterdaten (openweathermap).
 
 ---
-Klicken Sie [hier](https://elihasch.github.io/weatherPage/)bitte an
+Klicken Sie [hier](https://elihasch.github.io/weatherPage/) bitte an
