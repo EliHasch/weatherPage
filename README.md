@@ -1,5 +1,5 @@
 # Weather Page
----
+
 
 ### Übersicht
 
@@ -25,3 +25,6 @@ Dies ist ein einfaches Wettervorhersage-Projekt, das mithilfe von JavaScript ers
 
 ## Onlin Demo
 Klicken Sie [hier](https://elihasch.github.io/weatherPage/) bitte an
+
+
+![Ein Foto von der Seite!](/WeatherPage/img/Screenshot.png)
