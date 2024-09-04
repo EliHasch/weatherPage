@@ -2,8 +2,9 @@
 ---
 
 ### Übersicht
+
 Dies ist ein einfaches Wettervorhersage-Projekt, das mithilfe von JavaScript erstellt wurde. Die Anwendung zeigt die Wettervorhersage für die nächsten fünf Tage an, wobei die Stadt Berlin als Standardort festgelegt ist. Nutzer können die Stadt ändern, um das Wetter an einem anderen Ort abzufragen.
----
+
 
 ### Funktion 
 
@@ -12,7 +13,7 @@ Dies ist ein einfaches Wettervorhersage-Projekt, das mithilfe von JavaScript ers
 > - **Stadtwechsel** : Benutzer können eine andere Stadt auswählen, um die Wettervorhersage für diese Stadt anzuzeigen.
 > - **Responsives Design** : Die Benutzeroberfläche ist für Mobilgeräte und Desktops optimiert.
 
----
+
 
 ### Technologien
 
@@ -21,5 +22,5 @@ Dies ist ein einfaches Wettervorhersage-Projekt, das mithilfe von JavaScript ers
 > - **Javascript(ES6+)** : Logik zur Abfrage der Wetterdaten und Darstellung auf der Seite.
 > - **API-Name** : Für die Wetterdaten (openweathermap).
 
----
+
 Klicken Sie [hier](https://elihasch.github.io/weatherPage/) bitte an
